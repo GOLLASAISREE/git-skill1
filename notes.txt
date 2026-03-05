@@ -1,2 +1,7 @@
 This is Git practice file
+<<<<<<< HEAD
 git checkout -b bug-fix
+=======
+
+updated feature branch
+>>>>>>> feature-update
